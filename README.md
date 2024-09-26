@@ -63,13 +63,5 @@ To compile and run the code in this repository, you will need:
     ./<output_name>
     ```
 
-## Contributions
-
-Contributions are welcome! If you have suggestions for improvements or additional data structures to implement, feel free to open an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
