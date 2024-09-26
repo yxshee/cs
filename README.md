@@ -3,7 +3,7 @@
 
 # Data Structures
 
-Welcome to the **Data Structures** repository! This repository contains a collection of fundamental data structures implemented in C++. These data structures are essential for understanding and solving various computational problems efficiently.
+This repository contains a collection of fundamental data structures implemented in C++. These data structures are essential for understanding and solving various computational problems efficiently.
 
 ## Contents
 
