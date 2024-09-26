@@ -51,4 +51,4 @@ int main() {
     std::cout << "Is stack empty? " << (s.empty() ? "Yes" : "No") << std::endl;
     
     return 0;
-}
+} 
