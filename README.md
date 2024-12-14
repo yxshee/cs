@@ -1,7 +1,7 @@
 
 ---
 
-# Data Structures
+# cs
 
 This repository contains a collection of fundamental data structures implemented in C++. These data structures are essential for understanding and solving various computational problems efficiently.
 
