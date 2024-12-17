@@ -1,4 +1,4 @@
-<div align = "centre" text = "bold"  > <p>
+<div align = "center" text = "bold"  > <p>
 On the first part of the journey<br>
 I was looking at all the life<br>
 There were plants and birds and rocks and things<br>
